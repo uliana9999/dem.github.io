@@ -6,19 +6,20 @@
 }
 
 body {
-	/* Более яркий и светлый тёплый фон */
-	background-color: #f5e8cc; /* ← новый цвет: свежий, тёплый, яркий */
+	/* Тёплый персиковый фон — мягкий и уютный */
+	background-color: #ffe0bd; /* ← персиковый */
+	/* Альтернатива: #f8c6d0 — нежно-розовый */
 	margin-left: 20%;
 	margin-right: 20%;
 	border: 2px dotted black;
 	padding: 10px;
 	font-family: sans-serif;
-	color: #333; /* улучшает читаемость тёмного текста на светлом фоне */
+	color: #333; /* хорошая читаемость на светлом фоне */
 }
 
 blockquote.q {
-	color: #D4AF37; /* золотой — хорошо сочетается */
-	border-left: 4px solid #8B0000;
+	color: #D4AF37; /* золотой — элегантный акцент */
+	border-left: 4px solid #8B0000; /* тёмно-бордовый */
 	font-style: italic;
 	padding-left: 10px;
 	margin-left: 0;
